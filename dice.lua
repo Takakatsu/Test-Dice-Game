@@ -8,7 +8,7 @@ print("Dice 1: "..a)
 print("Dice 2: "..b)
 print("Total value: "..a+b)
 if(a+b>7)then
-	print("You won")
+	print(s.." won!")
 else
-	print("You lost")
+	print(s.." lost!")
 end
